@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" fill="#FBEFE3"/>
+  <!-- шматочок торта -->
+  <g transform="translate(20 30)">
+    <path d="M0 40 L50 20 L50 44 L0 64 Z" fill="#E9C79A"/>
+    <path d="M0 46 L50 26" stroke="#FFF7E8" stroke-width="3"/>
+    <path d="M0 54 L50 34" stroke="#FFF7E8" stroke-width="3"/>
+    <path d="M0 40 L50 20 L56 22 L6 42 Z" fill="#F6E3C6"/>
+  </g>
+  <!-- зірочки -->
+  <g fill="#F2C9A5">
+    <circle cx="120" cy="30" r="4"/>
+    <circle cx="135" cy="115" r="3"/>
+    <circle cx="40" cy="130" r="3"/>
+    <path d="M110 80 l4 9 9 1 -7 6 2 9 -8 -5 -8 5 2 -9 -7 -6 9 -1 z"/>
+  </g>
+</svg>
